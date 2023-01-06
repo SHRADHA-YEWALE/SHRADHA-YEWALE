@@ -10,8 +10,8 @@ My name is Shradha Yewale and I am currently pursuing Masters in Computer Softwa
 
 
 ### Repositories I have contributed to
-[Jet fighter Game with Design Patterns] https://github.com/SHRADHA-YEWALE/sp22-202-daemon-demons 
-[Simulation of indeed.com (FullStack)] https://github.com/SHRADHA-YEWALE/Simulation-of-indeed.com
+* [Jet fighter Game with Design Patterns] https://github.com/SHRADHA-YEWALE/sp22-202-daemon-demons 
+* [Simulation of indeed.com (FullStack)] https://github.com/SHRADHA-YEWALE/Simulation-of-indeed.com
 
 ### My Technical skills
 
