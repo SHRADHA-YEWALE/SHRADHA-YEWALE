@@ -4,14 +4,14 @@ My name is Shradha Yewale and I am currently pursuing Masters in Computer Softwa
 
 ### Work Experience
 
-* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210916916-82ca059b-5f7b-4d27-88e0-efa2fe1b8e0f.png"> **CueBack** [Software Development Engineering Intern] _August 2022_ _to_ _Present_
-* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210917652-39b6adff-0340-449d-a6df-792571e86f2d.png"> **Amazon Web Service** [Software Development Engineering Intern] _May 2022_ _to_ _August 2022_
-* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210917946-75a74ec2-e881-4442-9f63-47cfad5890d2.png"> **Mastercard** [Software Development Engineer] _June 2018_ _to_ _July 2021_
-* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210917946-75a74ec2-e881-4442-9f63-47cfad5890d2.png"> **Mastercard** [Software Development Engineering Intern] _May 2017_ _to_ _July 2017_
+* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210916916-82ca059b-5f7b-4d27-88e0-efa2fe1b8e0f.png"> **CueBack** [Software Development Engineering Intern]
+* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210917652-39b6adff-0340-449d-a6df-792571e86f2d.png"> **Amazon Web Service** [Software Development Engineering Intern]
+* <img width="20" alt="image" src="https://user-images.githubusercontent.com/22095857/210917946-75a74ec2-e881-4442-9f63-47cfad5890d2.png"> **Mastercard** [Software Development Engineer]
+
 
 ### Repositories I have contributed to
-
-### Some Individual Projects
+[Jet fighter Game with Design Patterns] https://github.com/SHRADHA-YEWALE/sp22-202-daemon-demons 
+[Simulation of indeed.com (FullStack)] https://github.com/SHRADHA-YEWALE/Simulation-of-indeed.com
 
 ### My Technical skills
 
@@ -21,6 +21,12 @@ My name is Shradha Yewale and I am currently pursuing Masters in Computer Softwa
 * 🗄 **Database Management Systems** - MySQL, PostgerSQL, MongoDB, AWS RDS SQL server, AWS DynamoDB.
 * ☁ **Cloud Technologies** - AWS EC2, AWS S3, AWS Lambda, AWS Cloudwatch, AWS CloudFormation, AWS CloudFront, Docker.
 * 🥸 **Other Tools and Technologies** - REST APIs, Microservices, JSON, Git, Bitbucket, Confluence, Jira, Intellij.
+
+### Lets Connect
+
+* **Email** : shradhayewale1@gmail.com
+* **Linkedin** : https://www.linkedin.com/in/shradha-yewale/
+* **Checkout my technical blogs**: https://shradhayewale.medium.com/
 
 
 <!--
