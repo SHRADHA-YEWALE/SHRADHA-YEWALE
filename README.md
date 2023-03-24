@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Shradha Yewale and I am currently pursuing Masters in Computer Software Enginerring at San Jose State University (will be graduated in May 2023). I have 3+ years of work experience in software engineering field. 
+My name is Shradha Yewale and I am currently pursuing Masters in Computer Software Enginerring at San Jose State University and will graduate in May 2023. I have 3+ years of work experience in software engineering field. My Core competencies include Java, Spring boot, Typescript, Node JS, React JS, REST API development, Web Development, Data Structures, and Algorithms.
+
 
 ### Work Experience
 
@@ -13,14 +14,18 @@ My name is Shradha Yewale and I am currently pursuing Masters in Computer Softwa
 * [Jet fighter Game with Design Patterns] https://github.com/SHRADHA-YEWALE/sp22-202-daemon-demons 
 * [Simulation of indeed.com (FullStack)] https://github.com/SHRADHA-YEWALE/Simulation-of-indeed.com
 
+### My Projects
+* [UberEats Application Prototype (FullStack)] https://github.com/SHRADHA-YEWALE/UberEats-application-protoype
+* [React Marketplace Application (FullStack)] https://github.com/SHRADHA-YEWALE/React-marketplace-application
+
 ### My Technical skills
 
 * **{ } Programming Languages** - Java, Typescript, Javascript, Python.
-* 🧰 **Frameworks/Tools** - Spring Boot, Spring MVC, Hibernate, JDBC, Gradle, Maven, Git, Jenkins, Swagger, Mockito Junit.
-* 💻 **Web Development** - React JS, Node JS, ExpressJS, HTML, CSS, Bootstrap, GraphQL.
+* 🧰 **Frameworks/Tools** - Spring Boot, Spring MVC, Hibernate, JDBC, Gradle, Maven, Git, Jenkins, SonarQube, Swagger, Mockito Junit, Jest.
+* 💻 **Web Development** - React JS, Node JS, ExpressJS, HTML, CSS, SCSS, Bootstrap, GraphQL.
 * 🗄 **Database Management Systems** - MySQL, PostgerSQL, MongoDB, AWS RDS SQL server, AWS DynamoDB.
 * ☁ **Cloud Technologies** - AWS EC2, AWS S3, AWS Lambda, AWS Cloudwatch, AWS CloudFormation, AWS CloudFront, Docker.
-* 🥸 **Other Tools and Technologies** - REST APIs, Microservices, JSON, Git, Bitbucket, Confluence, Jira, Intellij.
+* 🥸 **Other Tools and Technologies** - REST APIs, Microservices, JSON, Git, Bitbucket, Confluence, Jira, Intellij, Eclipse.
 
 ### Lets Connect
 
